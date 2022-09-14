@@ -25,13 +25,11 @@
 
 ### :man_technologist: About Me :
 I am a Data Analyst & Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Benin Republic.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Looking to work on big projects in teams.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I’m working on personal projects to practice my skills.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/volker-tachin/)
+- :zap: In my free time, I play Call of Duty Mobile and watch series.
 
 ---
 

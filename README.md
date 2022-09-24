@@ -39,13 +39,19 @@ I am a Data Analyst & Data Scientist <img src="https://media.giphy.com/media/WUl
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
+  <a href="https://www.mysql.com/">
+	<img alt="MySQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  </a>
   <a href="" target="_blank">
-    <img alt="SQL" src="https://img.shields.io/badge/SQL?style=for-the-badge&logo=sql&logoColor=white">
+    <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
   </a>
 </div>
 
 #### Visualisation Tools:
-
+<a href="" target="_blank">
+    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="jetbrains" />
+  </a>
+  
 #### Development Tools:
 <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
@@ -60,6 +66,9 @@ I am a Data Analyst & Data Scientist <img src="https://media.giphy.com/media/WUl
   <a href="https://github.com/ELanza-48" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
+  <a href="https://linux.com/" target="_blank">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  </a>
   
 #### Data Manipulation Tools:
 <a href="https://numpy.org/" target="_blank">
@@ -68,7 +77,24 @@ I am a Data Analyst & Data Scientist <img src="https://media.giphy.com/media/WUl
   <a href="https://pandas.pydata.org/" target="_blank">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
   </a>
+  <a href="https://scipy.org/" target="_blank">
+    <img alt="Plotly" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
+  </a>
   
 #### FrontEnd Tools:
+<p
+<a href="" target="_blank">
+    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  </a>
+</p>
 
 #### BackEnd Tools:
+<p
+<a href="" target="_blank">
+    <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+  </a>
+<a href="" target="_blank">
+    <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
+  </a>
+ </p>
+ 

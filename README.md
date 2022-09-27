@@ -29,7 +29,9 @@ I am a Data Analyst & Data Scientist <img src="https://media.giphy.com/media/WUl
 
 - :seedling: I’m working on personal projects to practice my skills.
 
-- :zap: In my free time, I play Call of Duty Mobile and watch series.
+- :zap: In my free time, I play Call of Duty Mobile, watch cartoons and series.
+
+- I'm a "retired" Instagram content creator/model
 
 ---
 

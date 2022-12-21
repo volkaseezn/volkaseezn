@@ -27,7 +27,7 @@
 I am a Data Analyst & Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Benin Republic.
 - :telescope: Looking to work on big projects in teams.
 
-- :seedling: I’m working on personal projects to practice my skills.
+- :seedling: I’m working on open source projects and participating in a data science internship
 
 - :zap: In my free time, I play Call of Duty Mobile, watch cartoons and series.
 

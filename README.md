@@ -79,9 +79,19 @@ I am a Data Analyst & Data Scientist <img src="https://media.giphy.com/media/WUl
   <a href="https://pandas.pydata.org/" target="_blank">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
   </a>
-  <a href="https://scipy.org/" target="_blank">
+  </a>
+   <a href="https://www.selenium.dev/" target="_blank">
+    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
+  </a>
+  
+ #### Machine Learning Tools:
+ <a href="https://scikit-learn.org/" target="_blank">
+    <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  </a>
+    <a href="https://scipy.org/" target="_blank">
     <img alt="Plotly" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
   </a>
+  
   
 #### FrontEnd Tools:
 <p

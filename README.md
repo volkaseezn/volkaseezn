@@ -39,16 +39,16 @@ I am an IoT Engineer with a liking towards Data Science <img src="https://media.
 #### IoT protocol stacks:
 <div>
   <a href="https://wi-sun.org/" target="_blank">
-    <img alt="Wi-SUN" src="https://img.shields.io/badge/WiSUN-8A2BE2">
+    <img alt="Wi-SUN" src="https://img.shields.io/badge/WiSUN-20B2AA?style=for-the-badge">
   </a>
   <a href="https://lora-alliance.org/">
-	<img alt="LoRa" src="https://img.shields.io/badge/LoRaWAN-8A2BE2">
+	<img alt="LoRa" src="https://img.shields.io/badge/LoRaWAN-20B2AA?style=for-the-badge">
   </a>
   <a href="https://www.gsma.com/iot/narrow-band-internet-of-things-nb-iot/" target="_blank">
-    <img alt="NbIoT" src="https://img.shields.io/badge/NbIoT-8A2BE2">
+    <img alt="NbIoT" src="https://img.shields.io/badge/NbIoT-20B2AA?style=for-the-badge">
   </a>
   <a href="" target="_blank">
-    <img alt="TCP/IP" src="https://img.shields.io/badge/TCP%20IP-8A2BE2">
+    <img alt="TCP/IP" src="https://img.shields.io/badge/TCP%20IP-20B2AA?style=for-the-badge">
   </a>
 </div>
 
@@ -62,6 +62,9 @@ I am an IoT Engineer with a liking towards Data Science <img src="https://media.
   </a>
   <a href="" target="_blank">
     <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+  </a>
+  <a href="" target="_blank">
+    <img alt="C" src="https://img.shields.io/badge/C-%23000000.svg?style=for-the-badge&logo=C&logoColor=white">
   </a>
 </div>
 

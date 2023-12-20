@@ -39,7 +39,7 @@ I am an IoT Engineer with a liking towards Data Science <img src="https://media.
 #### IoT protocol stacks:
 <div>
   <a href="https://wi-sun.org/" target="_blank">
-    <img alt="Wi-SUN" src="https://img.shields.io/badge/%27Wi-SUN%27%20style-20B2AA?style=for-the-badge">
+    <img alt="Wi-SUN" src="https://img.shields.io/badge/Wi-SUN-8A2BE2">
   </a>
   <a href="https://www.mysql.com/">
 	<img alt="MySQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">

@@ -44,8 +44,11 @@ I am an IoT Engineer with a liking towards Data Science <img src="https://media.
   <a href="https://lora-alliance.org/">
 	<img alt="LoRa" src="https://img.shields.io/badge/LoRaWAN-8A2BE2">
   </a>
+  <a href="https://www.gsma.com/iot/narrow-band-internet-of-things-nb-iot/" target="_blank">
+    <img alt="NbIoT" src="https://img.shields.io/badge/NbIoT-8A2BE2">
+  </a>
   <a href="" target="_blank">
-    <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+    <img alt="TCP/IP" src="https://img.shields.io/badge/TCP%20IP-8A2BE2">
   </a>
 </div>
 

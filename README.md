@@ -36,6 +36,19 @@ I am an IoT Engineer with a liking towards Data Science <img src="https://media.
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
+#### IoT protocol stacks:
+<div>
+  <a href="https://wi-sun.org/" target="_blank">
+    <img alt="Wi-SUN" src="https://img.shields.io/badge/%27Wi-SUN%27%20style-20B2AA?style=for-the-badge">
+  </a>
+  <a href="https://www.mysql.com/">
+	<img alt="MySQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  </a>
+  <a href="" target="_blank">
+    <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+  </a>
+</div>
+
 #### Languages:
 <div>
   <a href="https://www.python.org" target="_blank">

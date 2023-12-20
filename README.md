@@ -24,10 +24,10 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Data Analyst & Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Benin Republic.
-- :telescope: Looking to work on big projects in teams.
+I am an IoT Engineer with a liking towards Data Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Benin Republic.
+- :telescope: Looking for an internship in 5g, Wi-SUN, NbIoT or LoRa
 
-- :seedling: I’m working on open source projects and participating in a data science internship
+- :seedling: I’m working on implementing a Wi-SUN network (repo coming soon)
 
 - :zap: In my free time, I play Call of Duty Mobile, watch cartoons and series.
 

@@ -24,7 +24,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am an IoT Engineer with a liking towards Data Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Benin Republic.
+I am an IoT Engineer with a particular liking towards network tool development and protocol definition. I however aim to work on Telecom solutions at the Network Core. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Benin Republic.
 - :telescope: Looking for an internship in 5g, Wi-SUN, NbIoT or LoRa
 
 - :seedling: I’m working on implementing a Wi-SUN network (repo coming soon)
